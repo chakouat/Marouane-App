@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "CHARIOHISAB",
+    "slug": "chariohisab-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFC244",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFC244"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "sdkVersion": "53.0.0"
+  }
+}
